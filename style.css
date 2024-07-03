@@ -16,8 +16,11 @@ body{
 }
 
 .hero img{
-    height: 180px;
-    width: 320px;
+    height: 224px;
+    width: 398.2px;
+    flex-shrink: 0;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 20px;
 }
 
 .info img{
@@ -43,11 +46,14 @@ a{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0px 150px
+    padding: 10px 150px
 }
 
 .hero{
     background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 150px;
 }
 
 .info{
@@ -88,6 +94,7 @@ button{
     padding: 5px 15px;
     font-weight: 700;
     font-size: 15px;
+    width: 100px;
 }
 
 .info .title{
@@ -119,5 +126,12 @@ button{
 
 .list{
     display: flex;
+    gap: 10px;
+}
+
+.hero .left{
+    width: 410px;
+    display: flex;
+    flex-direction: column;
     gap: 10px;
 }
