@@ -6,3 +6,5 @@ This is a sample homepage for a website, primarily for demonstrating css flex-bo
 - Photo by <a href="https://unsplash.com/@brucemars?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">bruce mars</a> on <a href="https://unsplash.com/photos/woman-wearing-sport-bra-standing-on-gym-floors-pFyKRmDiWEA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 - Photo by <a href="https://unsplash.com/@vdphotography?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">VD Photography</a> on <a href="https://unsplash.com/photos/a-couple-of-black-dumbs-sitting-on-top-of-a-table-4KtEJUvT3Es?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 - Photo by <a href="https://unsplash.com/@aloragriffiths?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Alora Griffiths</a> on <a href="https://unsplash.com/photos/woman-seriously-performing-gym-exercise-LOnMc8Rp1Qs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+## Live Preview on GitHub Pages:
+- <a href="https://vikasindora.github.io/o-landing-page/">Click here!</a>
