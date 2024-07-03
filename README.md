@@ -1,2 +1,8 @@
 # o-landing-page
-This is a sample homepage for a website, primarily for demonstrating css layout using Flexbox.
+This is a sample homepage for a website, primarily for demonstrating css flex-box layout.
+## URLs for the images/icons used:
+- Photo by <a href="https://unsplash.com/@victorfreitas?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Victor Freitas</a> on <a href="https://unsplash.com/photos/person-about-to-lift-the-barbel-WvDYdXDzkhs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+- Photo by <a href="https://unsplash.com/@risennnnn?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Risen Wang</a> on <a href="https://unsplash.com/photos/gym-equipment-inside-room-20jX9b35r_M?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+- Photo by <a href="https://unsplash.com/@brucemars?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">bruce mars</a> on <a href="https://unsplash.com/photos/woman-wearing-sport-bra-standing-on-gym-floors-pFyKRmDiWEA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+- Photo by <a href="https://unsplash.com/@vdphotography?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">VD Photography</a> on <a href="https://unsplash.com/photos/a-couple-of-black-dumbs-sitting-on-top-of-a-table-4KtEJUvT3Es?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+- Photo by <a href="https://unsplash.com/@aloragriffiths?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Alora Griffiths</a> on <a href="https://unsplash.com/photos/woman-seriously-performing-gym-exercise-LOnMc8Rp1Qs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
