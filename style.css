@@ -65,7 +65,7 @@ a{
 
 .quote{
     background-color: #E5E7EB;
-
+    padding: 75px 150px;
 }
 
 .CTA{
@@ -112,11 +112,11 @@ button{
     font-size: 36px;
     font-style: italic;
     color: #1F2937;
-    font-family: sans-serif;
+    font-family: "Josefin Sans", sans-serif;
 }
 
 .quote .title{
-    font-weight: 700;
+    font-weight: 500;
     font-family: sans-serif;
 }
 
@@ -158,4 +158,8 @@ button{
 .info .text{
     text-align: center;
     font-style: oblique;
+}
+
+.quote .title{
+    text-align: end;
 }
