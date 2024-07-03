@@ -1,13 +1,18 @@
-.logoimg{
-    height: 30px;
-    width: 30px;
+body{
+    margin: 0px;
+    font-family: Verdana, sans-serif;
+}
+
+.header img{
+    height: 24px;
+    width: 24px;
     border: 3px solid lightblue;
-    background-color: rgb(197, 244, 248);
+    background-color: #F9FAF8;
     border-radius: 50%;
     padding: 5px;
 }
 
-.mainimg{
+.hero img{
     height: 180px;
     width: 320px;
 }
@@ -15,4 +20,88 @@
 .info img{
     height: 180px;
     width: 240px;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header{
+    background-color: #1F2937;
+}
+
+.hero{
+    background-color: #1F2937;
+}
+
+.info{
+    background-color: whitesmoke;
+}
+
+.quote{
+    background-color: #E5E7EB;
+
+}
+
+.CTA{
+    background-color: #3882f6;
+}
+
+.footer{
+    background-color: #1F2937;
+    color: #E5E7EB;
+    text-align: center;
+}
+
+.hero .title{
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8
+}
+.hero .text{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+button{
+    background-color: #3882f6;
+    color: #E5E7EB;
+    border-radius: 8px;
+    padding: 5px 15px;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.info .title{
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+}
+
+.quote .text{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    font-family: sans-serif;
+}
+
+.quote .title{
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+.CTA .title{
+    color: #F9FAF8;
+    font-weight: 700;
+    font-size: large;
+}
+.CTA .text{
+    color: #F9FAF8;
 }
