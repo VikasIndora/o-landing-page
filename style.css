@@ -2,8 +2,6 @@ body{
     margin: 0px;
     font-family: Verdana, sans-serif;
     box-sizing: border-box;
-    display: flex;
-    flex-direction: column;
 }
 
 .header img{
@@ -13,6 +11,10 @@ body{
     background-color: #F9FAF8;
     border-radius: 50%;
     padding: 5px;
+}
+
+.header img:hover{
+    box-shadow: 0 0 11px 8px #3882f6;
 }
 
 .hero img{
@@ -43,6 +45,11 @@ a{
     color: #E5E7EB;
 }
 
+a:hover{
+    text-decoration: underline;
+    color: #3882f6;
+}
+
 .header{
     background-color: #1F2937;
     height: 50px;
@@ -70,6 +77,11 @@ a{
 
 .CTA{
     background-color: #3882f6;
+    margin: 75px 150px;
+    border-radius: 12px;
+    display: flex;
+    padding: 80px 160px;
+    justify-content: space-between;
 }
 
 .footer{
@@ -90,6 +102,7 @@ a{
     font-size: 18px;
     color: #E5E7EB;
 }
+
 button{
     background-color: #3882f6;
     color: #E5E7EB;
@@ -98,6 +111,7 @@ button{
     font-weight: 700;
     font-size: 15px;
     width: 100px;
+    height: 30px;
 }
 
 .info .title{
@@ -123,7 +137,7 @@ button{
 .CTA .title{
     color: #F9FAF8;
     font-weight: 700;
-    font-size: large;
+    font-size: 25px;
 }
 .CTA .text{
     color: #F9FAF8;
@@ -141,7 +155,7 @@ button{
     gap: 10px;
 }
 
-.container{
+.info .container{
     display: flex;
     margin: 30px 150px 100px;
     justify-content: space-between;
@@ -162,4 +176,10 @@ button{
 
 .quote .title{
     text-align: end;
+}
+
+.CTA .container{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
 }
