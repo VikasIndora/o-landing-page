@@ -1,6 +1,9 @@
 body{
     margin: 0px;
     font-family: Verdana, sans-serif;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
 }
 
 .header img{
@@ -36,6 +39,11 @@ a{
 
 .header{
     background-color: #1F2937;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 150px
 }
 
 .hero{
@@ -58,7 +66,10 @@ a{
 .footer{
     background-color: #1F2937;
     color: #E5E7EB;
-    text-align: center;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .hero .title{
@@ -104,4 +115,9 @@ button{
 }
 .CTA .text{
     color: #F9FAF8;
+}
+
+.list{
+    display: flex;
+    gap: 10px;
 }
