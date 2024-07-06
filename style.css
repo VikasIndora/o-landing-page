@@ -159,6 +159,7 @@ button{
 .info .container{
     display: flex;
     margin: 30px 150px 100px;
+    justify-content: space-between;
 }
 
 .card{
